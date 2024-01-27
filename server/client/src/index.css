@@ -1,0 +1,175 @@
+/* body {
+  margin: 0;
+}
+
+.login {
+  background-color: transparent;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -185%);
+  text-align: center;
+}
+
+.login2 {
+  background-color: transparent;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -200%);
+  text-align: center;
+} */
+
+/* .main {
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0);
+} */
+
+/* .App {
+  width: 75rem;
+  transform: translate(14%, -12%);
+  height: 50rem;
+  box-shadow: 5px 10px 15px #040404;
+  padding: 2rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.681);
+} */
+
+/* input {
+  width: 100%;
+  height: 2.5rem;
+  margin-bottom: 1rem;
+  outline: none;
+  font-size: 1rem;
+  padding: 4px;
+  border: 0.5px solid rgb(172, 166, 166);
+  border-radius: 5px;
+  background-color: transparent;
+  color: #efeff6;
+}*/
+.driversignup {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-image: url("../public/images/driver.jpg");
+  background-size: cover;
+}
+
+.body {
+  margin: 0;
+
+  background-image: url("../../client/public/images/photo-1636955691064-c9ce3ba6f470.avif");
+  background-size: cover;
+}
+.Loginrider {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-image: url("../public/images/loginPassenger.jpg");
+  background-size: cover;
+}
+
+/* .LoginriderSubcontent {
+  width: 75rem;
+  transform: translate(14%, -5%);
+  height: 40rem;
+  box-shadow: 5px 10px 15px #040404;
+  padding: 2rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: rgba(142, 206, 152, 0.534);
+} */
+.LoginDriver {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-image: url("../public/images/driverlogin.jpg");
+  background-size: cover;
+}
+.Adminportal {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-image: url("../public/images/adminportal.jpg");
+  background-size: cover;
+  height: 88vh;
+}
+.RiderProfile{
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* background-image: url("../public/images/r.jpg"); */
+  background-size: cover;
+  height: 100vh;
+}
+
+.Admin {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-image: url("../public/images/admin.jpg");
+  background-size: cover;
+}
+/* .LoginDriverSubcontent {
+  width: 75rem;
+  transform: translate(14%, 10%);
+  height: 35rem;
+  box-shadow: 5px 10px 15px #040404;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: rgba(142, 206, 152, 0.534);
+} */
+.google {
+  margin: 1rem;
+  background-color: #efeff6;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+} */
+
+/* img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 100%;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Gruppo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Gruppo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Gruppo&family=Rubik+Doodle+Shadow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Rubik+Doodle+Shadow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&display=swap");
